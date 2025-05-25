@@ -1,0 +1,5 @@
+rss_feed_url: "https://onepiece-nakama.com/feed"
+output_pdf_directory: "/your/full/path/to/your/One Piece/directory/in/Komga" # IMPORTANT: Change this to your actual path
+chapter_keyword: "צ'אפטר"
+check_interval_minutes: 60 # How often to check the RSS feed (in minutes)
+max_age_hours: 24 # Max age of a post in RSS (in hours) to be considered new
